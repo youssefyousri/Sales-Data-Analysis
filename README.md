@@ -78,9 +78,11 @@ Profit was distributed relatively evenly between Online and Retail sales channel
 - Retail: approximately 3M — 50.54%
 - Online: approximately 3M — 49.46%
 
-## Dashboard
+## Dashboard Preview
 
-The Power BI dashboard provides an interactive overview of sales, profit, quantity sold, profit margin, and sales performance across different business dimensions.
+<p align="center">
+  <img src="./Sales_Dashboard.png" alt="Sales Analysis Power BI Dashboard" width="100%" />
+</p>
 
 ## Conclusion
 
