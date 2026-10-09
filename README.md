@@ -81,7 +81,7 @@ Profit was distributed relatively evenly between Online and Retail sales channel
 ## Dashboard Preview
 
 <p align="center">
-  <img src="./Sales_Dashboard.png" alt="Sales Analysis Power BI Dashboard" width="100%" />
+  <img src="[./Sales_Dashboard.png](https://github.com/youssefyousri/Sales-Data-Analysis/blob/main/Sales_Dashboard.png.png?raw=true)****" alt="Sales Analysis Power BI Dashboard" width="100%" />
 </p>
 
 ## Conclusion
