@@ -82,6 +82,7 @@ Profit was distributed relatively evenly between Online and Retail sales channel
 <p align="center">
   <img src="https://raw.githubusercontent.com/youssefyousri/Sales-Data-Analysis/main/Sales_Dashboard.png.png" alt="Sales Analysis Power BI Dashboard" width="100%" />
 </p>
+
 ## Conclusion
 
 This project demonstrates an end-to-end sales data analysis workflow, from data cleaning and exploration to business analysis and interactive dashboard creation.
